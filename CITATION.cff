@@ -12,4 +12,5 @@ type: "website"
 preferred-citation:
   authors:
    - family-names: "ELIXIR"
+  year: 2021
   title: "Research Data Management Kit (2021) A deliverable from the EU-funded ELIXIR-CONVERGE project (grant agreement 871075). URL: https://rdmkit.elixir-europe.org"
