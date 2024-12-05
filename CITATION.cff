@@ -9,6 +9,9 @@ date-released: 2021-03-01
 repository-code: "https://github.com/citation-file-format/my-research-software"
 url: "https://rdmkit.elixir-europe.org"
 type: "website"
+funding:
+    - name: "Funding string in the body"
+      identifier: "NSF-123456"
 preferred-citation:
   notes: "These are notes about funder"
   year: "2021"
@@ -16,5 +19,8 @@ preferred-citation:
   description: "this is the description"
   authors:
     - family-names: "ELIXIR"
+  funding:
+    - name: "National Science Foundation"
+      identifier: "NSF-123456"
 
 
