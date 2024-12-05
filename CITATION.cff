@@ -10,4 +10,6 @@ repository-code: "https://github.com/citation-file-format/my-research-software"
 url: "https://rdmkit.elixir-europe.org"
 type: "website"
 preferred-citation:
+  authors:
+   - family-names: "ELIXIR"
   title: "Research Data Management Kit (2021) A deliverable from the EU-funded ELIXIR-CONVERGE project (grant agreement 871075). URL: https://rdmkit.elixir-europe.org"
